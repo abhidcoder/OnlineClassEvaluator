@@ -36,7 +36,7 @@ Student tables:
 Automatic Entry In The Table
 
 # 5 - attendance_sheet --> [Sr_no(pk),usn(varchar),time(timestamp),dept(varchar),year(varchar)]
-  --> When the student Login by the student is successful it stores their login time and details
+  --> When the Login by the student is successful it stores their login time and details
  
 
 
