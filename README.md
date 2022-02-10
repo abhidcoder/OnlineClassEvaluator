@@ -3,16 +3,16 @@ This project is about managing Attendance, Marks, Grades and Remarks of the stud
 
 How To Run The Project:
 
-1 - Create a folder COMPLETE_PROJECT
-2 - Inside that folder paste all the files
-3 - Now take that folder and install XAMPP
-4 - Go to the the installed directorey of XAMPP
-5 - Paste the folder COMPLETE_PROJECT in htdocs of XAMPP
-6 - Run APACHE then Run MySQL
-7 - Open any code editor eg, Brackets or VS code
-8 - Open the file COMPLETE_PROJECT using the code editor
-9 - run Startmember.php file
-10 - You are all set.
+# 1 - Create a folder COMPLETE_PROJECT
+# 2 - Inside that folder paste all the files
+# 3 - Now take that folder and install XAMPP
+# 4 - Go to the the installed directorey of XAMPP
+# 5 - Paste the folder COMPLETE_PROJECT in htdocs of XAMPP
+# 6 - Run APACHE then Run MySQL
+# 7 - Open any code editor eg, Brackets or VS code
+# 8 - Open the file COMPLETE_PROJECT using the code editor
+# 9 - run Startmember.php file
+# 10 - You are all set.
 
 # Database Of This Project:
  
