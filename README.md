@@ -14,23 +14,23 @@ How To Run The Project:
 9 - run Startmember.php file
 10 - You are all set.
 
-Database this Project:
+# Database Of This Project:
  
  Database has "demo" name
 
 # Students tables:
 
-1 - attendance_count --> [sr(primary key),usn(varchar),total_attendance_count(int),dept(varchar),year(varchar)]
-2 - marks_list --> [usn(pk),name(varchar),dept(varchar),First(int),Second(int),Third(int),year(varchar),Remarks(varchar)]
-3 - students_login -->[sr(pk),usn(varchar),name(varchar),password(varchar),year(varchar),dept(varchar)]
+# 1 - attendance_count --> [sr(primary key),usn(varchar),total_attendance_count(int),dept(varchar),year(varchar)]
+# 2 - marks_list --> [usn(pk),name(varchar),dept(varchar),First(int),Second(int),Third(int),year(varchar),Remarks(varchar)]
+# 3 - students_login -->[sr(pk),usn(varchar),name(varchar),password(varchar),year(varchar),dept(varchar)]
 
 # Teachers Login Table:
 
-4 - user_login --> [sr(pk),user_id(varchar),password(varchar),dept(varchar)]
+# 4 - user_login --> [sr(pk),user_id(varchar),password(varchar),dept(varchar)]
 
 # Automatic Entry In The Table
 
-5 - attendance_sheet --> [Sr_no(pk),usn(varchar),time(timestamp),dept(varchar),year(varchar)]
+# 5 - attendance_sheet --> [Sr_no(pk),usn(varchar),time(timestamp),dept(varchar),year(varchar)]
 
 
 
