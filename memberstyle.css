@@ -1,0 +1,40 @@
+body{
+background-image: url("https://images.pexels.com/photos/698808/pexels-photo-698808.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+background-repeat: no-repeat;
+background-size: 100%;
+/*background-color: rgb(32,32,32); */    
+}
+
+.container-fluids {
+margin: 0 33%;
+}
+
+.form-control {
+width: 210%;
+}
+
+input[type="submit"] {
+margin: 0 80%;
+}
+
+h1 {
+font-size: 24px;
+color: white;
+}
+
+h1 span {
+color: red;
+}
+
+h2 {
+font-family: Abril Fatface; 
+letter-spacing: 5px;
+text-align: center;
+color: #007BFF;
+text-shadow: 2px 2px 4px white;
+}
+
+label {
+color: brown;
+font-weight: bolder;
+}

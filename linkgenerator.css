@@ -1,0 +1,30 @@
+body{
+background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+background-repeat: no-repeat;
+background-size: 100%;
+/*background-color: rgb(32,32,32); */    
+}
+
+h1 {
+font-size: 24px;
+color: white;
+}
+
+h1 span {
+color: red;
+}
+
+h2 {
+color: crimson;
+text-shadow: 4px 4px 6px black;
+}
+
+.container-fluids {
+margin: 0 20%;
+}
+
+.btn {
+   margin-left: 42%;
+   padding: 6px 28px;
+}
+

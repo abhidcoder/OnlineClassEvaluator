@@ -1,0 +1,13 @@
+body{
+background-color: #ffffff;   
+background-repeat: no-repeat;
+background-size: 100%; 
+font-family: Abril Fatface; 
+letter-spacing: 3px;
+text-align: center;
+}
+
+.page-header {
+    color: firebrick;
+    text-shadow: 2px 2px 4px white;
+}

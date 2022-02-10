@@ -1,0 +1,67 @@
+body{
+background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+background-repeat: no-repeat;
+background-size: 100%;
+/*background-color: rgb(32,32,32); */    
+}
+
+h1 {
+font-size: 24px;
+color: white;
+}
+
+h1 span {
+color: red;
+}
+
+h2 {
+color: greenyellow;
+text-shadow: 4px 4px 6px black;
+}
+
+.container-fluids {
+margin: 0 20%;
+}
+
+input[type="submit"]{
+    margin-left: 34%;
+    }
+
+.scaling button {
+   margin-left: 34%;
+}
+
+.scaling .btn-danger {
+    padding: 6px 30px;
+}
+
+.scaling .btn-success {
+    padding: 6px 28px;
+}
+label[for="link"] {
+    color: aqua;
+}
+
+.text-warning {
+margin-left: 43%;
+}
+
+.abhi {
+   margin-left: 38%; 
+}
+
+.abhii {
+   margin-left: 16%; 
+    }
+.scaled .btn-primary {
+padding: 6px 38px;
+text-align: center;
+}
+.scaled{
+margin-left: -2%; 
+padding: 20px 38px;
+}
+.dom .btn-info{
+ padding: 6px 20px;   
+}
+
