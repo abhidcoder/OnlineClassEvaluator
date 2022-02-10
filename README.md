@@ -1,5 +1,6 @@
-# OnlineClassEvaluator
-This project is about managing Attendance, Marks, Grades and Remarks of the students through online mode classes using Zoom meeting , Google meets and etc.
+OnlineClassEvaluator
+
+# This project is about managing Attendance, Marks, Grades and Remarks of the students through online mode classes using Zoom meeting , Google meets and etc.
 
 How To Run The Project:
 
@@ -14,11 +15,11 @@ How To Run The Project:
 # 9 - run Startmember.php file
 # 10 - You are all set.
 
-# Database Of This Project:
+Database Of This Project:
  
- Database has "demo" name
+# Database has "demo" name
 
-# Students tables:
+Students tables:
 
 # 1 - attendance_count --> [sr(primary key),usn(varchar),total_attendance_count(int),dept(varchar),year(varchar)]
 # 2 - marks_list --> [usn(pk),name(varchar),dept(varchar),First(int),Second(int),Third(int),year(varchar),Remarks(varchar)]
@@ -28,7 +29,7 @@ How To Run The Project:
 
 # 4 - user_login --> [sr(pk),user_id(varchar),password(varchar),dept(varchar)]
 
-# Automatic Entry In The Table
+Automatic Entry In The Table
 
 # 5 - attendance_sheet --> [Sr_no(pk),usn(varchar),time(timestamp),dept(varchar),year(varchar)]
 
