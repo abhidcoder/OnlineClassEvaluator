@@ -19,7 +19,7 @@ Database Of This Project:
  
 # Database has "demo" name
 
-Students tables:
+Student tables:
 
 # 1 - attendance_count --> [sr(primary key),usn(varchar),total_attendance_count(int),dept(varchar),year(varchar)]
 # 2 - marks_list --> [usn(pk),name(varchar),dept(varchar),First(int),Second(int),Third(int),year(varchar),Remarks(varchar)]
